@@ -1,0 +1,5 @@
+D:\Dot-Net-Course-2\DataTypesHomework\TwoStrings\bin\Debug\TwoStrings.exe.config
+D:\Dot-Net-Course-2\DataTypesHomework\TwoStrings\bin\Debug\TwoStrings.exe
+D:\Dot-Net-Course-2\DataTypesHomework\TwoStrings\bin\Debug\TwoStrings.pdb
+D:\Dot-Net-Course-2\DataTypesHomework\TwoStrings\obj\Debug\TwoStrings.exe
+D:\Dot-Net-Course-2\DataTypesHomework\TwoStrings\obj\Debug\TwoStrings.pdb

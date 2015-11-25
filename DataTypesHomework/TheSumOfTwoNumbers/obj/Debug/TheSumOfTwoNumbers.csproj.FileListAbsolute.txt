@@ -1,0 +1,5 @@
+D:\Dot-Net-Course-2\DataTypesHomework\TheSumOfTwoNumbers\bin\Debug\TheSumOfTwoNumbers.exe.config
+D:\Dot-Net-Course-2\DataTypesHomework\TheSumOfTwoNumbers\bin\Debug\TheSumOfTwoNumbers.exe
+D:\Dot-Net-Course-2\DataTypesHomework\TheSumOfTwoNumbers\bin\Debug\TheSumOfTwoNumbers.pdb
+D:\Dot-Net-Course-2\DataTypesHomework\TheSumOfTwoNumbers\obj\Debug\TheSumOfTwoNumbers.exe
+D:\Dot-Net-Course-2\DataTypesHomework\TheSumOfTwoNumbers\obj\Debug\TheSumOfTwoNumbers.pdb

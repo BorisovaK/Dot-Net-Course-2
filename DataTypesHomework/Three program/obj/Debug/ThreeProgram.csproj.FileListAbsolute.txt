@@ -1,0 +1,5 @@
+D:\Dot-Net-Course-2\DataTypesHomework\Three program\bin\Debug\Three program.exe.config
+D:\Dot-Net-Course-2\DataTypesHomework\Three program\bin\Debug\Three program.exe
+D:\Dot-Net-Course-2\DataTypesHomework\Three program\bin\Debug\Three program.pdb
+D:\Dot-Net-Course-2\DataTypesHomework\Three program\obj\Debug\Three program.exe
+D:\Dot-Net-Course-2\DataTypesHomework\Three program\obj\Debug\Three program.pdb

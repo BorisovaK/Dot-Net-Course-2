@@ -1,0 +1,5 @@
+D:\Dot-Net-Course-2\DataTypesHomework\TwonumbersDevision\bin\Debug\TwonumbersDevision.exe.config
+D:\Dot-Net-Course-2\DataTypesHomework\TwonumbersDevision\bin\Debug\TwonumbersDevision.exe
+D:\Dot-Net-Course-2\DataTypesHomework\TwonumbersDevision\bin\Debug\TwonumbersDevision.pdb
+D:\Dot-Net-Course-2\DataTypesHomework\TwonumbersDevision\obj\Debug\TwonumbersDevision.exe
+D:\Dot-Net-Course-2\DataTypesHomework\TwonumbersDevision\obj\Debug\TwonumbersDevision.pdb

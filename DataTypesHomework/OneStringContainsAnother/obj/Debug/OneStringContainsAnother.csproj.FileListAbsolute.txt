@@ -1,0 +1,6 @@
+D:\Dot-Net-Course-2\DataTypesHomework\OneStringContainsAnother\bin\Debug\OneStringContainsAnother.exe.config
+D:\Dot-Net-Course-2\DataTypesHomework\OneStringContainsAnother\bin\Debug\OneStringContainsAnother.exe
+D:\Dot-Net-Course-2\DataTypesHomework\OneStringContainsAnother\bin\Debug\OneStringContainsAnother.pdb
+D:\Dot-Net-Course-2\DataTypesHomework\OneStringContainsAnother\obj\Debug\OneStringContainsAnother.csprojResolveAssemblyReference.cache
+D:\Dot-Net-Course-2\DataTypesHomework\OneStringContainsAnother\obj\Debug\OneStringContainsAnother.exe
+D:\Dot-Net-Course-2\DataTypesHomework\OneStringContainsAnother\obj\Debug\OneStringContainsAnother.pdb

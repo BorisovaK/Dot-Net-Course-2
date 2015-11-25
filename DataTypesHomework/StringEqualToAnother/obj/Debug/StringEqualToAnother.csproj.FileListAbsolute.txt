@@ -1,0 +1,6 @@
+D:\Dot-Net-Course-2\DataTypesHomework\StringEqualToAnother\bin\Debug\StringEqualToAnother.exe.config
+D:\Dot-Net-Course-2\DataTypesHomework\StringEqualToAnother\bin\Debug\StringEqualToAnother.exe
+D:\Dot-Net-Course-2\DataTypesHomework\StringEqualToAnother\bin\Debug\StringEqualToAnother.pdb
+D:\Dot-Net-Course-2\DataTypesHomework\StringEqualToAnother\obj\Debug\StringEqualToAnother.csprojResolveAssemblyReference.cache
+D:\Dot-Net-Course-2\DataTypesHomework\StringEqualToAnother\obj\Debug\StringEqualToAnother.exe
+D:\Dot-Net-Course-2\DataTypesHomework\StringEqualToAnother\obj\Debug\StringEqualToAnother.pdb

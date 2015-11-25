@@ -1,0 +1,5 @@
+D:\Dot-Net-Course-2\DataTypesHomework\SOfTriangle\bin\Debug\SOfTriangle.exe.config
+D:\Dot-Net-Course-2\DataTypesHomework\SOfTriangle\bin\Debug\SOfTriangle.exe
+D:\Dot-Net-Course-2\DataTypesHomework\SOfTriangle\bin\Debug\SOfTriangle.pdb
+D:\Dot-Net-Course-2\DataTypesHomework\SOfTriangle\obj\Debug\SOfTriangle.exe
+D:\Dot-Net-Course-2\DataTypesHomework\SOfTriangle\obj\Debug\SOfTriangle.pdb
