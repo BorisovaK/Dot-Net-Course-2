@@ -1,0 +1,5 @@
+D:\Dot-Net-Course-2\ConditionHW\BonusPoints\bin\Debug\BonusPoints.exe.config
+D:\Dot-Net-Course-2\ConditionHW\BonusPoints\bin\Debug\BonusPoints.exe
+D:\Dot-Net-Course-2\ConditionHW\BonusPoints\bin\Debug\BonusPoints.pdb
+D:\Dot-Net-Course-2\ConditionHW\BonusPoints\obj\Debug\BonusPoints.exe
+D:\Dot-Net-Course-2\ConditionHW\BonusPoints\obj\Debug\BonusPoints.pdb

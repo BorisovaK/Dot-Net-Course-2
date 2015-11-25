@@ -1,0 +1,6 @@
+D:\Dot-Net-Course-2\ConditionHW\PickUpOneType\bin\Debug\PickUpOneType.exe.config
+D:\Dot-Net-Course-2\ConditionHW\PickUpOneType\bin\Debug\PickUpOneType.exe
+D:\Dot-Net-Course-2\ConditionHW\PickUpOneType\bin\Debug\PickUpOneType.pdb
+D:\Dot-Net-Course-2\ConditionHW\PickUpOneType\obj\Debug\PickUpOneType.csprojResolveAssemblyReference.cache
+D:\Dot-Net-Course-2\ConditionHW\PickUpOneType\obj\Debug\PickUpOneType.exe
+D:\Dot-Net-Course-2\ConditionHW\PickUpOneType\obj\Debug\PickUpOneType.pdb
