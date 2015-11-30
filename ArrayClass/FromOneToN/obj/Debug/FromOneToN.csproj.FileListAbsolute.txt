@@ -1,6 +1,0 @@
-D:\Dot-Net-Course-2\ArrayClass\FromOneToN\bin\Debug\FromOneToN.exe.config
-D:\Dot-Net-Course-2\ArrayClass\FromOneToN\bin\Debug\FromOneToN.exe
-D:\Dot-Net-Course-2\ArrayClass\FromOneToN\bin\Debug\FromOneToN.pdb
-D:\Dot-Net-Course-2\ArrayClass\FromOneToN\obj\Debug\FromOneToN.csprojResolveAssemblyReference.cache
-D:\Dot-Net-Course-2\ArrayClass\FromOneToN\obj\Debug\FromOneToN.exe
-D:\Dot-Net-Course-2\ArrayClass\FromOneToN\obj\Debug\FromOneToN.pdb
