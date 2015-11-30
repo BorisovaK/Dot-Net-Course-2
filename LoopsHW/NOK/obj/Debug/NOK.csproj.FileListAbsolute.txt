@@ -1,0 +1,6 @@
+D:\Dot-Net-Course-2\LoopsHW\NOK\bin\Debug\NOK.exe.config
+D:\Dot-Net-Course-2\LoopsHW\NOK\bin\Debug\NOK.exe
+D:\Dot-Net-Course-2\LoopsHW\NOK\bin\Debug\NOK.pdb
+D:\Dot-Net-Course-2\LoopsHW\NOK\obj\Debug\NOK.csprojResolveAssemblyReference.cache
+D:\Dot-Net-Course-2\LoopsHW\NOK\obj\Debug\NOK.exe
+D:\Dot-Net-Course-2\LoopsHW\NOK\obj\Debug\NOK.pdb

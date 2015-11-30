@@ -1,0 +1,5 @@
+D:\Dot-Net-Course-2\LoopsHW\MinMaxNumbers\bin\Debug\MinMaxNumbers.exe.config
+D:\Dot-Net-Course-2\LoopsHW\MinMaxNumbers\bin\Debug\MinMaxNumbers.exe
+D:\Dot-Net-Course-2\LoopsHW\MinMaxNumbers\bin\Debug\MinMaxNumbers.pdb
+D:\Dot-Net-Course-2\LoopsHW\MinMaxNumbers\obj\Debug\MinMaxNumbers.exe
+D:\Dot-Net-Course-2\LoopsHW\MinMaxNumbers\obj\Debug\MinMaxNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Dot-Net-Course-2\LoopsHW\NotDivisionalTo3And7\bin\Debug\NotDivisionalTo3And7.exe.config
+D:\Dot-Net-Course-2\LoopsHW\NotDivisionalTo3And7\bin\Debug\NotDivisionalTo3And7.exe
+D:\Dot-Net-Course-2\LoopsHW\NotDivisionalTo3And7\bin\Debug\NotDivisionalTo3And7.pdb
+D:\Dot-Net-Course-2\LoopsHW\NotDivisionalTo3And7\obj\Debug\NotDivisionalTo3And7.csprojResolveAssemblyReference.cache
+D:\Dot-Net-Course-2\LoopsHW\NotDivisionalTo3And7\obj\Debug\NotDivisionalTo3And7.exe
+D:\Dot-Net-Course-2\LoopsHW\NotDivisionalTo3And7\obj\Debug\NotDivisionalTo3And7.pdb
